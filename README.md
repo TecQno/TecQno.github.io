@@ -1,1 +1,1 @@
-# TecQno-Website
+# TecQno.github.io
